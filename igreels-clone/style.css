@@ -117,11 +117,11 @@ body {
   color: white;
   font-weight: 900;
   text-transform: inherit;
-  background: rgb(0 0 0 / 50%);
+  background: rgb(0 0 0 / 0%);
   border: none;
   padding: 0px 4px 2px 4px;
   position: initial;
-  border: 1px #00000038 solid;
+  border: 1px #ffffff73 solid;
   border-radius: 10px;
 }
 
