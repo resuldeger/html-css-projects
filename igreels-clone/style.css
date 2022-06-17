@@ -117,11 +117,12 @@ body {
   color: white;
   font-weight: 900;
   text-transform: inherit;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgb(0 0 0 / 50%);
   border: none;
-  padding: 5px;
-  right: 7%;
-  position: fixed;
+  padding: 0px 4px 2px 4px;
+  position: initial;
+  border: 1px #00000038 solid;
+  border-radius: 10px;
 }
 
 .videoFooter__ticker {
